@@ -1,7 +1,7 @@
 # Space Dodge
 Dodge the particles as they fall down
 ## Features
-* Particles Fall Down From The Toop Of The Screen
+* Particles Fall Down From The Top Of The Screen
 * See How Long You Can Stay Without Hitting Any Of the Particles!
 * Move Left And Right With Arrow Keys
 ## Links
