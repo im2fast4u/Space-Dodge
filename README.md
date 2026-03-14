@@ -1,5 +1,5 @@
 # Space Dodge
-Dodge the particles as they fall down
+Dodge the astroids as they fall down
 ## Features
 * Particles Fall Down From The Top Of The Screen
 * See How Long You Can Stay Without Hitting Any Of the Particles!
