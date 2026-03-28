@@ -1,14 +1,19 @@
 # Space Dodge
 Dodge the astroids as they fall down
+
 ## Features
 * Particles Fall Down From The Top Of The Screen
 * See How Long You Can Stay Without Hitting Any Of the Particles!
 * Move Left And Right With Arrow Keys
+
 ## Install Pygame
+*Enter this command in the terminal window or command prompt.*
 ```
 pip install pygame
 ```
 ## Run
+*Before running the game, make sure you have git and pygame installed. \
+Enter this command in the terminal window or command prompt.*
 ```
 git clone https://github.com/im2fast4u/Space-Dodge.git
 cd Space-Dodge
