@@ -2,9 +2,9 @@
 Dodge the astroids as they fall down
 
 ## Features
-* Particles Fall Down From The Top Of The Screen
-* See How Long You Can Stay Without Hitting Any Of the Particles!
-* Move Left And Right With Arrow Keys
+* Astroids fall down from the top of the screen
+* See how long you can stay without hitting any of the astroids!
+* Move left and right with arrow keys
 
 ## Install Pygame
 *Enter this command in the terminal window or command prompt.*
